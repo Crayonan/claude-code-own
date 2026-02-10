@@ -1,5 +1,5 @@
 {
-  "name": "claude-code-marketplace",
+  "name": "claude-code-own",
   "version": "1.0.1",
   "owner": {
     "name": "DustyWalker",
@@ -7,8 +7,8 @@
     "url": "https://github.com/DustyWalker"
   },
   "description": "Claude Code plugin marketplace featuring production-ready agents based on comprehensive market research",
-  "homepage": "https://github.com/DustyWalker/claude-code-marketplace",
-  "repository": "https://github.com/DustyWalker/claude-code-marketplace",
+  "homepage": "https://github.com/Crayonan/claude-code-own",
+  "repository": "https://github.com/Crayonan/claude-code-own",
   "license": "MIT",
   "plugins": [
     {
